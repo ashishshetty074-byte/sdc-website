@@ -3,7 +3,7 @@
 A 5-page responsive website built for Sakthi Dental Clinic, Hosur, Tamil Nadu, as a real client deliverable for the ShadowFox Internship (Intermediate Level).
 
 **Live site:** https://ashishshetty074-byte.github.io/sdc-website/
-
+  Netlify: https://zingy-lily-909d64.netlify.app
 ---
 
 ## How I Understood the Requirement
